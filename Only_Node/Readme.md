@@ -18,7 +18,9 @@ A Node.js application has three main components:
   <img width="450" alt="Screenshot 2024-12-09 101513" src="https://github.com/user-attachments/assets/7123c348-bd53-4a6f-a68d-051c4b7f8916">
 
 - Updated the scripts section to set `"start": "index.js"` for running the application.
-  <img width="307" alt="Screenshot 2024-12-09 101716" src="https://github.com/user-attachments/assets/397e9f6a-9513-4bac-ad82-154f0981573f">
+  
+    <img width="307" alt="Screenshot 2024-12-09 101716" src="https://github.com/user-attachments/assets/397e9f6a-9513-4bac-ad82-154f0981573f">
+  
 - Installed necessary packages with:
   ```
   npm install express
