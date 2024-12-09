@@ -38,7 +38,11 @@ Created an index.js file containing a simple application with a GET request.
   ```
   This command starts the server as defined in the scripts section of package.json, which points to "node index.js".
 - Here is the Result
-  <img width="381" alt="Screenshot 2024-12-09 102227" src="https://github.com/user-attachments/assets/247ac49f-ae1b-4e21-9340-598901bac206">
+
+
+    <img width="381" alt="Screenshot 2024-12-09 102227" src="https://github.com/user-attachments/assets/247ac49f-ae1b-4e21-9340-598901bac206">
+
+  
 
 **Alternative**: You can also run the server with:
 ```
@@ -64,7 +68,10 @@ node index.js
   ```
   docker run <image-name>
   ```
-  <img width="296" alt="Screenshot 2024-12-09 102418" src="https://github.com/user-attachments/assets/c711626b-0e44-4e10-b572-cf669ad9c6e4">
+
+   <img width="296" alt="Screenshot 2024-12-09 102418" src="https://github.com/user-attachments/assets/c711626b-0e44-4e10-b572-cf669ad9c6e4">
+
+
 
   <img width="275" alt="Screenshot 2024-12-09 102524" src="https://github.com/user-attachments/assets/bafd5d28-9443-4990-acef-da337d8e8d1f">
   
@@ -72,13 +79,17 @@ node index.js
 
 - Added additional routes to the index.js file.
 -Code:
+
   <img width="280" alt="Screenshot 2024-12-09 102612" src="https://github.com/user-attachments/assets/4eeddbd4-798c-45e8-b915-606086d490b6">
 
   Results:
 
+
   <img width="210" alt="Screenshot 2024-12-09 102658" src="https://github.com/user-attachments/assets/1c50cdec-514f-4b95-b9f3-db827d388a99">
 
-  <img width="240" alt="Screenshot 2024-12-09 102739" src="https://github.com/user-attachments/assets/424fea4f-07b7-417b-b343-9781a532113f">
+  
+
+   <img width="240" alt="Screenshot 2024-12-09 102739" src="https://github.com/user-attachments/assets/424fea4f-07b7-417b-b343-9781a532113f">
   
 
 - **Built the image and ran the container** while checking by altering the port.
